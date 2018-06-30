@@ -8,7 +8,7 @@ References:
 
 [2] Lau, C., “Adaptive Discrete-Ordinates Quadratures Based on Discontinuous Finite Elements Over Spherical Quadrilaterals”, PhD Dissertation, Texas A&M University, 2016.
 
-# Folder descriptions:
+# Folder descriptions
 
 ## kobayashi_example
 
